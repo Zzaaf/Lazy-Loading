@@ -1,5 +1,5 @@
 const preloader = document.getElementById('preloader'),
-      images = document.querySelectorAll('img')
+      images = document.querySelectorAll('img'),
       options = {
         root: null,
         rootMargin: '0px',
